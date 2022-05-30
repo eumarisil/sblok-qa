@@ -1,0 +1,8 @@
+{
+    "baseUrl": "https://app.storyblok.com/",
+    "experimentalSourceRewriting": true,
+    "watchForFileChanges": false,
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+      "configFile": "report-config.json"}
+}
